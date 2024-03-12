@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+	<TestCase>
+		<TestCaseId>TC01</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+	
+	<TestCase>
+		<TestCaseId>TC02</TestCaseId>
+		<OrgName></OrgName>
+		<UserName></UserName>
+		<Password></Password>
+	</TestCase>
+	
+	<TestCase>
+		<TestCaseId>TC03</TestCaseId>
+		<OrgName>In_Valid</OrgName>
+		<UserName>In_Valid</UserName>
+		<Password>In_Valid</Password>
+	</TestCase>
+
+	<TestCase>
+		<TestCaseId>TC04</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>Qwerty@</Password>
+	</TestCase>
+	
+	<TestCase>
+		<TestCaseId>TC05</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password></Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC06</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName></UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC07</TestCaseId>
+		<OrgName></OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC08</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>In_Valid</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC09</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>In_Valid</UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC10</TestCaseId>
+		<OrgName>In_Valid</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+
+	<TestCase>
+		<TestCaseId>TC11</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName></UserName>
+		<Password></Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC12</TestCaseId>
+		<OrgName></OrgName>
+		<UserName>qa_interview</UserName>
+		<Password></Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC13</TestCaseId>
+		<OrgName></OrgName>
+		<UserName></UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC14</TestCaseId>
+		<OrgName>tusha</OrgName>
+		<UserName>In_Valid</UserName>
+		<Password>In_Valid</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC15</TestCaseId>
+		<OrgName>In_Valid</OrgName>
+		<UserName>qa_interview</UserName>
+		<Password>In_Valid</Password>
+	</TestCase>
+	<TestCase>
+		<TestCaseId>TC16</TestCaseId>
+		<OrgName>In_Valid</OrgName>
+		<UserName>In_Valid</UserName>
+		<Password>Qwerty@123</Password>
+	</TestCase>	
+	
+	<TestCase>
+		<TestCaseId>TC17</TestCaseId>
+		<OrgName>Forget</OrgName>
+	</TestCase>
+	
+	<TestCase>
+		<TestCaseId>TC18</TestCaseId>
+		<OrgName>Sign Up</OrgName>
+	</TestCase>
+	
+</TestCases>

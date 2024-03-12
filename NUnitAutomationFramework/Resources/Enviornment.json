@@ -1,0 +1,25 @@
+﻿{
+  "QA": {
+    "WebURL": "https://dev-otc.3trade.xyz/sign-in",
+    "BaseAPI": "192.0.0.0/baseurl",
+    "DataBaseURL": "192.0.0.0/DB"
+  },
+
+  "UAT": {
+    "WebURL": "https://dev-otc.3trade.xyz/sign-in",
+    "BaseAPI": "192.0.0.0/baseurl",
+    "DataBaseURL": "192.0.0.0/DB"
+  },
+
+  "PROD": {
+    "WebURL": "https://dev-otc.3trade.xyz/sign-in",
+    "BaseAPI": "192.0.0.0/baseurl",
+    "DataBaseURL": "192.0.0.0/DB"
+  },
+
+  "DEV": {
+    "WebURL": "https://dev-otc.3trade.xyz/sign-in",
+    "BaseAPI": "192.0.0.0/baseurl",
+    "DataBaseURL": "192.0.0.0/DB"
+  }
+}
